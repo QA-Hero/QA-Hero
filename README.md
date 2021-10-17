@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QA-Hero
+- 👋 Hi, I’m @QA-Heroes
 - 👀 I’m interested in automation and manual QA
 - 🌱 I’m always looking for more knowledges and advices 
 
